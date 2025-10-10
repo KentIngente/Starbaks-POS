@@ -85,7 +85,6 @@ namespace Starbaks_POS
             CalculateOrder();
         }
 
-
         public void RefreshCartGrid()
         {
             dgvOrderList.Rows.Clear();
@@ -205,4 +204,5 @@ namespace Starbaks_POS
         }
 
     }
+
 }
